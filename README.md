@@ -54,7 +54,7 @@ AI를 이용해 **내 문제를 작게 정의하고, 결과물을 만들고, 검
 | 단계 | 주제 | 핵심 결과물 |
 |---|---|---|
 | 사전 준비 | 장비·계정·도구·보안 점검 | 준비 체크리스트와 기초 진단 |
-| 1주차 | 문제 정의와 첫 결과물 | `PROJECT.md`와 첫 산출물 |
+| 1주차 | 문제 정의, LLM Wiki와 Git 작업 | `PROJECT.md`, 지식 인덱스와 첫 산출물 |
 | 2주차 | AI 위임과 결과 검증 | 작업 지시서와 검증 기록 |
 | 3주차 | 지식관리와 재현 가능한 작업공간 | 대시보드, `AGENTS.md`, README |
 | 4주차 | 안전한 공유와 개선 | 최종 시연, 평가표, 30일 계획 |
@@ -66,7 +66,7 @@ AI를 이용해 **내 문제를 작게 정의하고, 결과물을 만들고, 검
 3. [Codex와 Claude Code 선택 안내](docs/01a-tool-choice.md)
 4. [macOS 설치 안내](docs/01b-setup-macos.md)
 5. [Windows 설치 안내](docs/01c-setup-windows.md)
-6. [1주차: 문제 정의와 첫 결과물](docs/02-session-1.md)
+6. [1주차: 문제 정의, LLM Wiki와 Git 첫 결과물](docs/02-session-1.md)
 7. [2주차: 위임과 검증](docs/03-session-2.md)
 8. [3주차: 기록과 재사용](docs/04-session-3.md)
 9. [4주차: 공유와 개선](docs/05-session-4.md)

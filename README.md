@@ -66,13 +66,20 @@ AI를 이용해 **내 문제를 작게 정의하고, 결과물을 만들고, 검
 3. [Codex와 Claude Code 선택 안내](docs/01a-tool-choice.md)
 4. [macOS 설치 안내](docs/01b-setup-macos.md)
 5. [Windows 설치 안내](docs/01c-setup-windows.md)
-6. [1주차: 문제 정의, LLM Wiki와 Git 첫 결과물](docs/02-session-1.md)
-7. [2주차: 위임과 검증](docs/03-session-2.md)
-8. [3주차: 기록과 재사용](docs/04-session-3.md)
-9. [4주차: 공유와 개선](docs/05-session-4.md)
-10. [진단표와 대시보드 운영](docs/06-assessment-and-dashboard.md)
-11. [보안과 공개 기준](docs/07-security-and-sharing.md)
-12. [수료 후 30일 운영](docs/08-after-course.md)
+6. [Obsidian 볼트 만들기와 모바일 연동](docs/01d-setup-obsidian.md)
+7. [1주차: 문제 정의, LLM Wiki와 Git 첫 결과물](docs/02-session-1.md)
+8. [2주차: 위임과 검증](docs/03-session-2.md)
+9. [3주차: 기록과 재사용](docs/04-session-3.md)
+10. [4주차: 공유와 개선](docs/05-session-4.md)
+11. [진단표와 대시보드 운영](docs/06-assessment-and-dashboard.md)
+12. [보안과 공개 기준](docs/07-security-and-sharing.md)
+13. [수료 후 30일 운영](docs/08-after-course.md)
+
+참고 자료:
+
+- [다음 단계: 이 과정이 이어지는 곳](docs/09-next-steps.md) — 고급 개념으로의 지도(선택)
+- [워크드 예시: 여러 논문 관리·번역·정리](docs/10-worked-example-papers.md)
+- [대상별 프로젝트 예시](docs/11-examples-by-segment.md) — 중·고·대학·대학원·직장인
 
 ## 필요한 도구
 

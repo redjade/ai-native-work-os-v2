@@ -55,7 +55,7 @@ AI를 이용해 **내 문제를 작게 정의하고, 결과물을 만들고, 검
 |---|---|---|
 | 사전 준비 | 장비·계정·도구·보안 점검 | 준비 체크리스트와 기초 진단 |
 | 1주차 | 문제 정의, LLM Wiki와 Git 작업 | `PROJECT.md`, 지식 인덱스와 첫 산출물 |
-| 2주차 | AI 위임과 결과 검증 | 작업 지시서와 검증 기록 |
+| 2주차 | AI 위임·프롬프트 개선과 결과 검증 | 작업 지시서와 검증 기록 |
 | 3주차 | 지식관리와 재현 가능한 작업공간 | 대시보드, `AGENTS.md`, README |
 | 4주차 | 안전한 공유와 개선 | 최종 시연, 평가표, 30일 계획 |
 
@@ -68,7 +68,7 @@ AI를 이용해 **내 문제를 작게 정의하고, 결과물을 만들고, 검
 5. [Windows 설치 안내](docs/01c-setup-windows.md)
 6. [Obsidian 볼트 만들기와 모바일 연동](docs/01d-setup-obsidian.md)
 7. [1주차: 문제 정의, LLM Wiki와 Git 첫 결과물](docs/02-session-1.md)
-8. [2주차: 위임과 검증](docs/03-session-2.md)
+8. [2주차: 위임·프롬프트 개선과 검증](docs/03-session-2.md)
 9. [3주차: 기록과 재사용](docs/04-session-3.md)
 10. [4주차: 공유와 개선](docs/05-session-4.md)
 11. [진단표와 대시보드 운영](docs/06-assessment-and-dashboard.md)

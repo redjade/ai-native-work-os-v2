@@ -67,13 +67,14 @@ AI를 이용해 **내 문제를 작게 정의하고, 결과물을 만들고, 검
 4. [macOS 설치 안내](docs/01b-setup-macos.md)
 5. [Windows 설치 안내](docs/01c-setup-windows.md)
 6. [Obsidian 볼트 만들기와 모바일 연동](docs/01d-setup-obsidian.md)
-7. [1주차: 문제 정의, LLM Wiki와 Git 첫 결과물](docs/02-session-1.md)
-8. [2주차: 위임·프롬프트 개선과 검증](docs/03-session-2.md)
-9. [3주차: 기록과 재사용](docs/04-session-3.md)
-10. [4주차: 공유와 개선](docs/05-session-4.md)
-11. [진단표와 대시보드 운영](docs/06-assessment-and-dashboard.md)
-12. [보안과 공개 기준](docs/07-security-and-sharing.md)
-13. [수료 후 30일 운영](docs/08-after-course.md)
+7. [내 장비로 되는지 확인하기](docs/01e-hardware-check.md)
+8. [1주차: 문제 정의, LLM Wiki와 Git 첫 결과물](docs/02-session-1.md)
+9. [2주차: 위임·프롬프트 개선과 검증](docs/03-session-2.md)
+10. [3주차: 기록과 재사용](docs/04-session-3.md)
+11. [4주차: 공유와 개선](docs/05-session-4.md)
+12. [진단표와 대시보드 운영](docs/06-assessment-and-dashboard.md)
+13. [보안과 공개 기준](docs/07-security-and-sharing.md)
+14. [수료 후 30일 운영](docs/08-after-course.md)
 
 참고 자료:
 

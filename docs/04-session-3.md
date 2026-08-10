@@ -34,6 +34,8 @@ templates/
 
 모든 프로젝트가 이 구조를 그대로 쓸 필요는 없습니다. 각 파일의 역할이 겹치지 않도록 하는 것이 더 중요합니다.
 
+![HOME은 지금 상태, PROJECT는 목표와 완료 조건, TASKS는 이번 작업, DECISIONS는 정한 이유, LOG는 한 일, README는 남에게 하는 설명, AGENTS는 에이전트가 지킬 규칙을 맡는다](assets/workspace-files.svg)
+
 ## 실습 1: 대시보드 만들기
 
 ### 왜 대시보드인가

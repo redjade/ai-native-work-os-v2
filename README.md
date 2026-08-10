@@ -80,6 +80,7 @@ AI를 이용해 **내 문제를 작게 정의하고, 결과물을 만들고, 검
 
 - [쓸모 있는 프로젝트 찾기](docs/12-find-your-project.md) — 완성도보다 쓸모, 나만의 사례 발굴
 - [멀티에이전트 기초](docs/13-multi-agent-basics.md) — 역할 분리, 순차 검토, 사람의 결정 지점
+- [그림으로 설명하기](docs/14-make-a-diagram.md) — 구조·흐름을 SVG 한 장으로 만드는 방법
 - [다음 단계: 이 과정이 이어지는 곳](docs/09-next-steps.md) — 고급 개념으로의 지도(선택)
 - [워크드 예시: 여러 논문 관리·번역·정리](docs/10-worked-example-papers.md)
 - [대상별 프로젝트 예시](docs/11-examples-by-segment.md) — 중·고·대학·대학원·직장인

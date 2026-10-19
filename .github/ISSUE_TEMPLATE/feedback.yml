@@ -36,7 +36,7 @@ body:
     id: context
     attributes:
       label: "공개 가능한 환경·분야·가상 예시 (선택)"
-      description: "필요한 역할·학습 단계·운영체제·도구 버전만 적어도 됩니다. 실명·소속 기관·실제 원자료는 필요하지 않습니다."
+      description: "의학·경영·건축·공공행정·일반 기업·화학·바이오테크·법학 및 법률 실무 등 적용 분야와 필요한 역할·환경만 적어도 됩니다. 실명·소속 기관·실제 원자료는 필요하지 않습니다."
   - type: checkboxes
     id: privacy
     attributes:

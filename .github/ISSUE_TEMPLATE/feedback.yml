@@ -1,0 +1,46 @@
+name: "질문·수정 제안·분야별 요구"
+description: "early release 교재의 질문, 오류, 수강 피드백과 분야별 요구를 알려 주세요."
+title: "[피드백] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        의견 감사합니다. 이 교재는 피드백을 반영하며 계속 개선하는 early release입니다.
+        공개 Issue에는 과제 원문, 개인·환자·납세자 정보, 내부 문서·화면, 비밀번호·토큰을 올리지 마세요.
+        자신의 프로젝트와 기록은 비공개로 유지하고, 질문에는 가상 예시와 필요한 최소 설명만 사용해 주세요.
+  - type: dropdown
+    id: category
+    attributes:
+      label: "의견 종류"
+      options:
+        - "질문·어려운 설명"
+        - "오류·오탈자·링크"
+        - "수강·실습 피드백"
+        - "분야별 요구·적용 장면"
+        - "개선 제안"
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: "관련 문서·절 또는 사용한 버전"
+      description: "문서 이름이나 릴리스·커밋을 적어 주세요. 특정 문서가 없는 일반 질문도 가능합니다."
+  - type: textarea
+    id: feedback
+    attributes:
+      label: "질문·문제·필요한 변화"
+      description: "어떤 장면에서 막혔고 무엇이 달라지면 좋을지 적어 주세요."
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: "공개 가능한 환경·분야·가상 예시 (선택)"
+      description: "필요한 역할·학습 단계·운영체제·도구 버전만 적어도 됩니다. 실명·소속 기관·실제 원자료는 필요하지 않습니다."
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: "공개 범위 확인"
+      options:
+        - label: "개인정보·비밀정보·공개 권한이 없는 자료를 포함하지 않았습니다."
+          required: true
